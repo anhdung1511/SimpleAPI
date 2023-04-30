@@ -1,6 +1,6 @@
 # Spring Boot REST API
 
-Simple API
+Simple API built with Spring Boot that connects to a MySQL database using Spring Data JPA
 
 ## Features
 
